@@ -1,0 +1,24 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "liribot homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shardayel17/liribot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shardayel17/liribot/issues"
+  },
+  "homepage": "https://github.com/Shardayel17/liribot#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "node-spotify-api": "^1.0.7"
+  }
+}
